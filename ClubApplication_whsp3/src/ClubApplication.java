@@ -6,10 +6,10 @@ public class ClubApplication {
 
         Member member1, member2, member3, member4, member5;
 
-        member1 = club.addMember ("Einstein", "Albert", null);
+        member1 = club.addMember ("Kaung", "Albert", null);
         member2 = club.addMember ("Picasso", "Pablo", "Ruiz");
         member3 = club.addMember ("Webber","Andrew","Lloyd");
-        member4 = club.addMember ("Baggio", "Roberto", null);
+        member4 = club.addMember ("khant", "Roberto", null);
         member5 = club.addMember ("Raffles", "Stamford", null);
 
         System.out.println ("Current Members:");
